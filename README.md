@@ -1,6 +1,6 @@
 # youros-overview
 
-**yourOS** is a nostalgic, Windows 95–inspired website generator. It lets people create small desktop-style pages filled with photos, notes, music, and little apps. It's perfect as a gift, a memory box, or a personal homepage.
+**yourOS** is a nostalgic, Windows 95–inspired website generator. It lets people create small desktop-style sites filled with photos, notes, music, and little apps. It's perfect as a gift, a memory capsule, or a personal homepage.
 
 ---
 
